@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-06T22:02:41" hostname="W540-03404" time="20.709">
+  <properties/>
+  <testcase name="Test1" classname="TestClass" time="20.709"/>
+  <system-out><![CDATA[23:02:48 INFO [ActumSeleniumTest] Select checkboxes: Check this
+23:02:51 INFO [ActumSeleniumTest] Fill date with date:06/10/2016
+23:02:51 INFO [ActumSeleniumTest] Fill month with value:NOVEMBER
+23:02:52 INFO [ActumSeleniumTest] Set movies: [Star Wars, Matrix, Mr.Robot]
+23:02:53 INFO [ActumSeleniumTest] Set color: Red
+23:02:56 INFO [ActumSeleniumTest] Fill month with value:REBMEVON
+23:02:58 INFO [ActumSeleniumTest] Select done with value: Yes
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf) on port 36146
+Only local connections are allowed.
+Nov 06, 2016 11:02:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+Nov 06, 2016 11:02:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
