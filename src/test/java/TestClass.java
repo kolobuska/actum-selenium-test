@@ -91,7 +91,7 @@ public class TestClass extends WebDriverUtils {
         thirdPage.selectDone("Yes");
 
         // Submit form
-//        ConfirmationPage confirmationPage = thirdPage.goForward();
+        ConfirmationPage confirmationPage = thirdPage.goForward();
 
     }
 }
